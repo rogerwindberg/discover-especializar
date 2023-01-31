@@ -1,0 +1,24 @@
+{
+  "nome": "Roger Windberg",
+  "cidade": "Cachoeirinha",
+  "Telefone": "51900000000",
+  "jogos_favoritos": [
+    "Warframe",
+    "Terraria",
+    "Brawlhalla",
+    "Rust",
+    "GTA 5"
+  ],
+  "hobbies": {
+    "semana": "Estudar programação",
+    "fim_de_semana": {
+      "sabado": "Cinema",
+      "domingo": "Parque",
+      "outros": [
+        "caminhada",
+        "vòlei",
+        "netflix"
+      ]
+    }
+  }
+}
